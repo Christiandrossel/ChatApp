@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750464368115",
+    "firebase_url": "https://cronoschat-c11d0.firebaseio.com",
+    "project_id": "cronoschat-c11d0",
+    "storage_bucket": "cronoschat-c11d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750464368115:android:50987e845c35ebce812686",
+        "android_client_info": {
+          "package_name": "com.dude.cronoschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750464368115-fbkshk31hpitn8ilu810s795e15p0lhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dude.cronoschat",
+            "certificate_hash": "9b7b3ef4bc4c7b9710a8ad0a5e6c097cb4b88c0a"
+          }
+        },
+        {
+          "client_id": "750464368115-kv3e3hu8m62o65gp54qlnq9p1ff4g81g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRUP8xyRGp8b1LOJDMSwWxseswWPLtBT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750464368115-kv3e3hu8m62o65gp54qlnq9p1ff4g81g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

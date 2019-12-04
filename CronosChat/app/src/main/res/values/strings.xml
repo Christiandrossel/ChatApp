@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CronosChat</string>
+    <string name="TitleName">Chronos Chat</string>
+    <string name="Name">Name</string>
+    <string name="Chanel01">Chanel01</string>
+    <string name="Login">Login</string>
+</resources>
