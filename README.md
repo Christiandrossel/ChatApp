@@ -14,4 +14,10 @@ Nachdem man auf Login geklickt hat wird der Chatverlauf aus der Cloud geladen
 <img src="/Images/ChatVerlauf.jpg" alt="drawing" width="200"/>
 
 
+## Die andere App
+
+Hat ein anderen Startbildschirm
+
+<img src="/Images/Chat.jpg" alt="drawing" width="200"/>
+
 
